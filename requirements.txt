@@ -1,0 +1,23 @@
+# Frameworks RAG & Agents
+llama-index>=0.11.0
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+llama-index-llms-gemini
+llama-index-llms-ollama
+
+# Parsing avancé de documents
+docling
+
+# Base vectorielle client
+qdrant-client
+
+# Évaluation & Observabilité
+ragas
+langfuse
+
+# Utilitaires
+python-dotenv
+pydantic
+rich
+
+streamlit>=1.30.0
